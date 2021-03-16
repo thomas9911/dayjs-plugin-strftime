@@ -1,0 +1,20 @@
+{
+  "name": "dayjs-plugin-strftime",
+  "version": "1.0.0",
+  "description": "Simple Plugin for dayjs that adds strftime formatting",
+  "keywords": ["dayjs", "strftime", "plugin"],
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Thomas Timmer",
+  "license": "Unlicense",
+  "dependencies": {
+    "strftime": "*"
+  },
+  "devDependencies": {
+    "dayjs": "^1.10.4",
+    "jest": "^26.6.3"
+  }
+}
