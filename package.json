@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Simple Plugin for dayjs that adds strftime formatting",
   "keywords": ["dayjs", "strftime", "plugin"],
+  "homepage": "https://github.com/thomas9911/dayjs-plugin-strftime",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
