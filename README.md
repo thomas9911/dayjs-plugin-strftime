@@ -1,5 +1,8 @@
 # dayjs-plugin-strftime
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/thomas9911/dayjs-plugin-strftime)](https://github.com/thomas9911/dayjs-plugin-strftime)
+[![npm](https://img.shields.io/npm/v/dayjs-plugin-strftime)](https://www.npmjs.com/package/dayjs-plugin-strftime)
+
 Adding strftime to day js.
 
 It is just a dayjs wrapper around [strftime](https://github.com/samsonjs/strftime). Go there about customization
